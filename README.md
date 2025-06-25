@@ -11,6 +11,7 @@ colaborativo y DevOps.
 - **Herramientas:** VS Code, Terminal, Visual Studio
 ## Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gerafloyd19&show_icons=true&theme=radical)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerafloyd19&size_weight=0.5&count_weight=0.5&theme=radical)
 ## Proyectos destacados
 - **[github-course-lab1](https://github.com/curso-githu-chavezllamas/github-course-lab1)** -
